@@ -1,0 +1,22 @@
+.bf-hero-container {
+  height: 500px;
+  padding: 10px 0;
+  position: relative;
+  width: 100%;
+}
+
+.bf-hero-image {
+  background: url("https://static.pexels.com/photos/19917/pexels-photo.jpg") center center / cover no-repeat;
+  display: block;
+}
+
+.bf-homepage {
+  position: absolute;
+  width: 100%;
+  height: auto;
+}
+
+.bf-trim {
+  padding-top: 20px;
+  background-color: #D1A859;
+}
