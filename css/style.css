@@ -11,7 +11,7 @@
 }
 
 .bf-homepage {
-  position: absolute;
+  /*position: absolute;*/
   width: 100%;
   height: auto;
 }
@@ -19,4 +19,19 @@
 .bf-trim {
   padding-top: 20px;
   background-color: #D1A859;
+}
+
+.navbar {
+  height: 100px;
+}
+
+.navbar-nav > li {
+  padding: 30px 60px;
+}
+
+.navbar-nav > ul > li > p > a {
+  color: #000;
+  text-decoration: none;
+  font-size: 24px;
+  font-weight: 500;
 }
